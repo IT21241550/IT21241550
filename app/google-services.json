@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279864965938",
+    "project_id": "madslhandcraft",
+    "storage_bucket": "madslhandcraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279864965938:android:dc3d39833faf006fc5f52b",
+        "android_client_info": {
+          "package_name": "com.example.slcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279864965938-jdksmm6vkhnlv3g8fcjtcje3bkodckee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9hO7wbaZLDH-G2JOAUpijbbEdznIgd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279864965938-jdksmm6vkhnlv3g8fcjtcje3bkodckee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
